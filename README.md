@@ -74,5 +74,24 @@ File ini berisi konfigurasi untuk TypeScript, superset JavaScript yang diketik s
 **Remix**
 ![Screenshot](assets-report/remixs.png)
 **Gatsby**
-![Screenshot](assets-report/gatsby.png)
+![Screenshot](assets-report/gatsby.png)  
+
+
+> **Soal 4** Buatlah komponen MyTextNimName() berdasarkan kode dari soal nomor 3 sebelumnya. Lalu panggillah komponen tersebut. Apakah ada perubahan tampilan ? Mengapa demikian ?   
+
+![Screenshot](assets-report/04.png) 
+![Screenshot](assets-report/04(1).png)  
+
+Setelah membuat komponen MyTextNimName(), lalu memanggil komponen tersebut. Tampilan akan mengalami perubahan sesuai isi dari komponen yang dipanggil, hal ini terjadi karena ketika kita telah membuat fungsi sebelumnya sehingga kita bisa memanggil fungsi dari komponen tersebut.  
+
+> **Soal 5** Buatlah komponen MyPage() berdasarkan project praktikum 1 ini yang berisi kode-kode HTML dari fungsi Home(). Lalu panggillah komponen tersebut. Apakah ada perubahan tampilan ? Mengapa demikian ?   
+
+Tampilan akan sama, dikarenakan isi dari komponen MyPage() sama dengan fungsi dari Home()
+
+> **Soal 6**Gunakanlah Kode JSX image tersebut, ganti dengan NIM, Nama Anda beserta link gambar ganti dengan foto Anda (bisa dari link medsos atau lainnya). Push codenya dan screenshot hasilnya.  
+![Screenshot](assets-report/06.png) 
+
+
+
+
 
